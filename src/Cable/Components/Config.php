@@ -9,7 +9,10 @@
 namespace Cable\Config;
 
 
-
+/**
+ * Class Config
+ * @package Cable\Config
+ */
 class Config
 {
     /**
@@ -21,7 +24,7 @@ class Config
      * Config constructor.
      * @param array $items
      */
-    public function __construct($items = [])
+    public function __construct(array $items = [])
     {
         $this->configs = $items;
     }
