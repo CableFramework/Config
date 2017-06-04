@@ -1,0 +1,14 @@
+{
+    "name": "cable/cable-config",
+    "description": "Config library for cable framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "anonymframework",
+            "email": "vahit.serif119@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
