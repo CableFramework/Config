@@ -9,6 +9,11 @@
             "email": "vahit.serif119@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Cable\\Config\\":"src/Cable/Components"
+        }
+    },
     "minimum-stability": "stable",
     "require": {}
 }
